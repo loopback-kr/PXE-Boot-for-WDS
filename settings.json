@@ -1,0 +1,7 @@
+{
+    "download_url": "https://kernel.org/pub/linux/utils/boot/syslinux",
+    "archive_file": "syslinux-6.03.tar.gz",
+    "remoteinstall_dir": "remoteinstall",
+    "arch": "x86|x64",
+    "fallback_x86": false
+}
